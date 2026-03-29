@@ -1,5 +1,5 @@
 <p align=center>
   <a href="https://github.com/oliver-exblock">
-     <img width="640" alt="image" src="https://github.com/user-attachments/assets/4ba8798f-0deb-4c83-8968-ce9eae6b1276" />
+     <img width="640" alt="image" src="https://i.ytimg.com/vi/bYmggEXG73E/maxresdefault.jpg" />
   </a>
 </p>
